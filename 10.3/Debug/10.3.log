@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Ira\source\repos\10.3\10.3\Source.cpp(58,6): warning C4101: 'posada': unreferenced local variable
+C:\Users\Ira\source\repos\10.3\10.3\Source.cpp(311,6): warning C4101: 'vartist': unreferenced local variable
+  10.3.vcxproj -> C:\Users\Ira\source\repos\10.3\Debug\10.3.exe
